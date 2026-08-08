@@ -46,7 +46,7 @@ _Clash Verge Rev 界面预览_
 
 ## 3\. 导入订阅[¶](https://docs.proxyguide.org/clash/clash-verge-rev-on-windows/#3 "Permanent link")
 
-先进行 [订阅购买](https://docs.proxyguide.org/recommen/stable-vpn-recommendations/) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
+先进行 [订阅购买](https://docs.proxyguide.org/recommen/v2ray_node_recommendations/) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
 
 [![导入订阅](https://proxyguide.github.io/images/clash/remote_url.C_pIdA2k.gif)](https://proxyguide.github.io/images/clash/remote_url.C_pIdA2k.gif)
 
